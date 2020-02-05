@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is deepanshu. This is something to check.
+=======
+This is deepanshu.
+this is sudhanhsu
+>>>>>>> 80419e8406f10507f7d5bfcde55c570d177557f4
